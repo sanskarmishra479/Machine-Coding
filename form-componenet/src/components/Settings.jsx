@@ -1,4 +1,4 @@
-export const Settingform = () => {
+export const Settings = () => {
   return (
     <>
       <div>

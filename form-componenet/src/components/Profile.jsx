@@ -1,4 +1,4 @@
-export const Namefrom = () => {
+export const Profile = () => {
   return (
     <>
       <label htmlFor="name">Name:</label>

@@ -1,4 +1,4 @@
-export const Inputform = () => {
+export const Intrest = () => {
   return (
     <>
       <div>

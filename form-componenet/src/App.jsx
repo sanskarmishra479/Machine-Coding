@@ -1,18 +1,12 @@
-import { Inputform } from "./components/Intrestform"
-import { Namefrom } from "./components/Namefrom"
-import { Settingform } from "./components/Settingform"
+// import { useState } from "react"
 import { Tab } from "./components/Tab"
 
 function App() {
+  // const [formData , SetformData] = useState({})
 
   return (
     <>
     <Tab />
-    <div className="form">
-      <Namefrom />
-      <Inputform />
-      <Settingform />
-    </div>
     </>
   )
 }
