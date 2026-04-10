@@ -1,0 +1,14 @@
+.accordionItems{
+    background-color: palegoldenrod;
+    margin: 5px;
+}
+.accordionTitle{
+    padding: 2px;
+    cursor: pointer;
+    border: 1px solid rgb(193, 193, 193);
+    margin-bottom: 1px;
+}
+.accordionContent{
+    background-color: rgb(227, 227, 227);
+    padding: 8px;
+}
