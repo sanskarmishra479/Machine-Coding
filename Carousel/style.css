@@ -1,0 +1,5 @@
+#imgBox{
+    height: 80vh;
+    width: 80vw;
+    object-fit: cover;
+}
