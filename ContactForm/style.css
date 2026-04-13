@@ -1,0 +1,36 @@
+#main{
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#Frm{
+    padding: 18px;
+    height: auto;
+    min-width: 170px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px dashed black;
+}
+#fnameContainer{
+    display: flex;
+    flex-direction: column;
+}
+#lnameContainer{
+    display: flex;
+    flex-direction: column;
+}
+#emailContainer{
+    display: flex;
+    flex-direction: column;
+}
+#feadbackContainer{
+    display: flex;
+    flex-direction: column;
+}
+#submitBtn{
+    margin-top: 4px;
+}
